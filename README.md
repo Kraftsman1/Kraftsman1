@@ -1,6 +1,6 @@
 ## Hallo Welt 👋.
 
-I'm a FrontEnd Developer and Avid Gamer currently working at <localhost>. I'm passionate about Code and Tech. Oh and don't forget good Pizza.
+I'm a Developer and Avid Gamer currently working at <localhost>. I'm passionate about Code and Tech. Oh and don't forget good Pizza.
 
 - 🔭 I’m currently working on some random stuff.
 - 🌱 I’m currently learning Silverstripe PHP Framework.
