@@ -52,7 +52,7 @@ Oh, and I’ll never say no to good pizza 🍕.
 ### 📫 Connect With Me 
 - 💼 [LinkedIn](https://www.linkedin.com/in/iamdeen/)  
 - 🐦 [Twitter](https://twitter.com/the_Spartan_Dev) 
-- 📺 [Twitch](https://www.twitch.tv/kraftsman10)  
+- 📺 [Twitch](https://www.twitch.tv/Kraftsman_1)  
 - 🌐 [iamdeen.dev](https://iamdeen.dev)  
 
 ---
